@@ -2,7 +2,7 @@
 
 # Neural Network from Scratch
 
-This is a simple implementation of a neural network built using Python and NumPy. It demonstrates a basic feedforward neural network with forward propagation, backpropagation, and training using a custom dataset.
+This is a simple implementation of a neural network built using Python and NumPy. It demonstrates a basic feedforward neural network with forward propagation, backpropagation, and training using Solved Example.
 
 ## Features
 - Sigmoid activation function
